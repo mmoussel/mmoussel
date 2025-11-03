@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at FinFlx<br>👯 I’m looking to collaborate on NextJS, React Native, and React projects <br>🌱 I’m currently learning NestJs<br>
+🔭 I’m currently working at Barakah<br>👯 I’m looking to collaborate on NextJS, React Native, and React projects <br>🌱 I’m currently learning NestJs<br>
 
 
 ## 🌐 Socials:
